@@ -1,2 +1,2 @@
-# movie-recomendation-cloud-system
+# movie-recommendation-cloud-system
 Distributed Systems Class
